@@ -21,7 +21,7 @@ El Tesorero registra o modifica los datos de una parcela (identificador/número,
 El Tesorero vincula uno o varios propietarios a la parcela, indicando para cada uno el porcentaje de propiedad (cuya suma total debe validar estrictamente el 100%) y la fecha de inicio de titularidad. 
 
 En caso de venta o transmisión, se registra la fecha fin de propiedad manteniendo la trazabilidad histórica de la parcela. 
-Si no se conoce al propietario actual, la parcela se vincula temporalmente a la figura de Propietario Anónimo para no interrumpir el flujo impositivo. ]]></markdownProperty>
+Si no se conoce al propietario actual, la parcela se vincula temporalmente a la figura de Propietario Anónimo para no interrumpir el flujo. ]]></markdownProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">critical</enumProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
