@@ -3,7 +3,7 @@
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true">
       <prefix><![CDATA[PRON-]]></prefix>
-      <number>008</number>
+      <number>002</number>
       <suffix><![CDATA[]]></suffix>
     </codeProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Cálculo y Fijación Manual de Cuotas Rústicas]]></stringProperty>

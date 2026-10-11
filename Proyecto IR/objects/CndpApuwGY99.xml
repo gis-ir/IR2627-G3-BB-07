@@ -8,7 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Para profundizar en la introducción al dominio del problema, podemos desglosar los siguientes aspectos clave del contexto y las reglas de negocio del sistema, ayudándonos del documento oficial extraído de la primera entrevista y toma de contacto con el cliente, el cual se adjunta a esta descripción: 
 
-- Contexto y Necesidad del Cliente: El proyecto consiste en un sistema de gestión de tesorería diseñado para la "ASOCIACIÓN LA ARADA". 
+- Contexto y Necesidad del Cliente: El proyecto consiste en un sistema de gestión de tesorería diseñado para la "Asociación la Arada". 
 
 - El objetivo principal del desarrollo es crear una aplicación de software que se centre específicamente en gestionar las cuotas y los pagos de la asociación, pero no solo en la tesorería, sino que sea capaz de forma autónoma de gestionar inconvenientes entre propietarios anónimos, reparto de porcentajes de titularidades, priorización de cargos, envío al socio para favorecer la gestión por ambas partes, etc.
  
