@@ -10,7 +10,7 @@
     <stringProperty name="synonyms" category="detail"><![CDATA[]]></stringProperty>
     <markdownProperty name="description" category="detail"><![CDATA[
 
-Ley de Propiedad Horizontal: Marco regulatorio de fincas urbanas (no aplicable directamente a las parcelas rústicas de la asociación).
+Ley de Propiedad Horizontal. Marco regulatorio de fincas urbanas.
 ]]></markdownProperty>
     <fileProperty name="image" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">50</integerProperty>
