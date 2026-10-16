@@ -73,6 +73,7 @@ expanded_objects:
   9af5MMYj5Hib: false
   9ksVmTKgUmmt: true
   C3DHbA5wvNTy: true
+  C99AEKZH2Pg5: false
   CMUYBSz6qMvh: false
   CmryN7hz32MH: false
   CndpApuwGY99: true
@@ -147,5 +148,5 @@ opened_views:
 - default
 selected_document: ers
 selected_objects:
-  ers: null
+  ers: C99AEKZH2Pg5
 selected_view: default
