@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="X7k2jrNpMLtE" classes="software-requirement business-rule" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true">
+      <prefix><![CDATA[REGN-]]></prefix>
+      <number>006</number>
+      <suffix><![CDATA[]]></suffix>
+    </codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Algoritmo Prioritario de Imputación de Deuda]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2026-10-27</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá respetar la siguiente regla de negocio o restricción: Algoritmo Prioritario de Imputación de Deuda.
+
+- Descripción: Al registrar un pago o cobro de un propietario el sistema debe aplicar el importe abonado de forma prioritaria a cubrir los cargos pendientes más antiguos (orden estricto cronológico ascendente por fecha de devengo).
+Si tras cubrir los cargos antiguos queda saldo sobrante, se aplica al cargo del periodo actual.
+Si la totalidad de la deuda queda saldada y resta un remanente, este se almacena como apunte de saldo a favor del propietario para futuros cargos.]]></markdownProperty>
+    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
+    <enumProperty name="urgency" category="priority" tooltip="urgency" choices="tbd high medium low">tbd</enumProperty>
+    <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
+    <enumProperty name="stability" category="priority" tooltip="stability" choices="tbd low medium high">tbd</enumProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
