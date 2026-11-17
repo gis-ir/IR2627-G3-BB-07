@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="xmGstZyEejee" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[códigoParcela]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[
+
+Código identificador único de la parcela sobre la que se define la propiedad.
+
+- titulares (Tipo: Map<string, real>): Diccionario que asocia el dni de cada propietario con su porcentajePropiedad (la suma debe ser 100.00).
+]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
