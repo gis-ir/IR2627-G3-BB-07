@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="VtgdRA4Lca9K" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[codigoCuota]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Código identificador único del modelo de cuota activo a facturar.
+
+- mes (Tipo: integer): Número del mes (1 a 12) al que corresponde el devengo de los cargos.
+
+- año  (Tipo: integer): Ejercicio anual al que corresponde el devengo de los cargos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

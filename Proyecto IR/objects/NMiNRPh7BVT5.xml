@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="NMiNRPh7BVT5" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[códigoParcela]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[
+
+Código identificador único de la parcela objeto de compraventa o cesión.
+
+- dniSaliente (Tipo: string): DNI/NIF del propietario actual que transmite su cuota de participación.
+
+- dniNuevo (Tipo: string): DNI/NIF del propietario adquirente que recibe la titularidad.
+
+- porcentaje (Tipo: real): Porcentaje de propiedad (0.01 a 100.00) que se transfiere en la operación.
+
+- fecha (Tipo: date): Fecha efectiva en la que se produce el traspaso de titularidad.
+]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
