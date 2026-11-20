@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="rTEyfLC4r3Qj" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Facturación: Cuotas y Cargos]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="Zpuvt2LGV3GN"/>
+    <child id="8G4QQpVCfz7M"/>
+    <child id="7zD6antJJfbK"/>
+    <child id="ZWT2YoWjU8kw"/>
+    <child id="Guv3ZNwekTEu"/>
+    <child id="osG2Bk4KnwMw"/>
+  </children>
+</object>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="g5dieHPCaUTm" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Tesorería: Cobros, gastos y cuentas]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="K9fRmbt4DjrW"/>
+    <child id="JstDuZXLh8Gg"/>
+    <child id="2RLTJpSamioU"/>
+    <child id="nF2tUrbzaJuE"/>
+    <child id="ocUSGaJycHDE"/>
+    <child id="6RXJKnuqUEft"/>
+    <child id="uUv6wTEbmcA7"/>
+    <child id="8GRkcWPgt2Nk"/>
+    <child id="xPewUKCeKjbS"/>
+    <child id="mG3iaByPKgRJ"/>
+    <child id="KLwExRJSZkrd"/>
+    <child id="xbiAabatadSF"/>
+  </children>
+</object>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="Xj5gPDMDaNRf" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Gestión de parcelas y titularidad]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="k7nb98XDFUUT"/>
+    <child id="JPLuFmvGWUeJ"/>
+    <child id="JG7guqv7j5NS"/>
+    <child id="JXarQNjHLfnq"/>
+  </children>
+</object>
