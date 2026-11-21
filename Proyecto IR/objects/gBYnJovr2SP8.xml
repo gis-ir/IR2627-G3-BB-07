@@ -12,7 +12,7 @@
 Importe cobrado: Numérico decimal ($> 0$), Obligatorio.
 
 
-- Forma de pago: Enumerado (Efectivo, Transferencia Bancaria, Domiciliación, Bizum), Obligatorio.
+- Forma de pago: Enumerado (Efectivo, Transferencia Bancaria), Obligatorio.
 
 
 - Referencia / Justificante bancario: Cadena de texto, Opcional.

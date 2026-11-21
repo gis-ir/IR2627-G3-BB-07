@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="CGw4U9uMZdS7" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[RN Propietarios anónimos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Los atributos anteriores son obligatorios en caso de que el propietario registrado no sea anónimo]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

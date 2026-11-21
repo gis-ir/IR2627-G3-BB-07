@@ -11,7 +11,23 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Este subsistema agrupa los requisitos relacionados con _[descripción del subsistema]_.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Agrupa los requisitos responsables de la emisión, cálculo individualizado, consulta de los recibos o deudas generadas a partir de los modelos de cuotas. Cubre tanto la generación masiva mensual (programada para el segundo domingo de cada mes) como la emisión de cargos individuales o extraordinarios, repartiendo el importe de la parcela entre sus titulares vigentes según su porcentaje de propiedad y conservando un registro histórico inmutable.
+
+• Requisitos Generales: RQG-001, RQG-002, RQG-007, RQG-009. 
+
+
+• Casos de Uso: CU-001 (y actualización de deuda en CU-002, CU-005 y CU-006). 
+
+
+
+• Requisitos de Información: RQI-005. 
+
+
+• Reglas de Negocio: REGN-002, REGN-003, REGN-004, REGN-005, REGN-007, REGN-008. 
+
+
+
+• Requisitos Funcionales: RQF-003, RQF-006, RQF-008, RQF-012.]]></markdownProperty>
     <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="detail" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object business-requirement" traceType=":Proteus-dependency"/>
