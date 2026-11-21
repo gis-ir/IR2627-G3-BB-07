@@ -4,21 +4,17 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[datos específicos]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[- ID Cargo: Cadena de texto / Numérico, Obligatorio, Único.
 
-- ID Propietario: Referencia a RI-001, Obligatorio.
-
-- ID Parcela: Referencia a RI-002, Opcional (Válido para cargos vinculados a parcela).
+- ID Parcela: Referencia a RI-002, Obligatorio (Cargos vinculados a parcela).
 
 - ID Cuota origen: Referencia a RI-004, Opcional.
 
-- Concepto: Cadena de texto, Obligatorio.
+- Concepto: Cadena de texto, Opcional.
 
 - Periodo / Fecha devengo: Fecha / Mes-Año, Obligatorio.
 
 - Importe total cargo: Numérico decimal, Obligatorio.
 
-- Importe pendiente: Numérico decimal , Obligatorio.
-
-- Estado del cargo: Enumerado (Pendiente, Pagado parcialmente, Pagado totalmente, Anulado), Obligatorio.
+- Estado del cargo: Enumerado (Pendiente, Pagado), Obligatorio.
 
 - Fecha de generación: Fecha y hora, Obligatorio.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
