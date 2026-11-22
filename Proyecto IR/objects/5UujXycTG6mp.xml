@@ -1,22 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5UujXycTG6mp" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Esquemas de la interfaz de usuario del sistema]]></stringProperty>
-    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Esquemas de la interfaz de usuario del sistema y descripcion (5.3)]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[Puntos fusionados por conveniencia y comodidad visual.]]></markdownProperty>
   </properties>
   <children>
+    <child id="pDy2uTtYWZST"/>
+    <child id="hKd9bEFBt7ti"/>
     <child id="zuosoKMubbQy"/>
+    <child id="jjFx4qnaYinS"/>
     <child id="iKuZcFYPcdii"/>
+    <child id="LYzSfZKXmzrf"/>
     <child id="iAUNQWxU4fe4"/>
+    <child id="VHSthTLFPEQR"/>
     <child id="sokT6udEvJb2"/>
+    <child id="zfvLcNuNfMR3"/>
     <child id="WN3FkvcEdrE3"/>
+    <child id="vXZkvsJrUaQh"/>
     <child id="XLHfhY33H4Rb"/>
+    <child id="bYdgEn72GhVu"/>
     <child id="Akm4f24dzdEP"/>
+    <child id="CavX8G56b7PR"/>
     <child id="ZxgrJPk3cSkA"/>
+    <child id="4iDan6BryCxC"/>
     <child id="pTQrSLw5HB5X"/>
+    <child id="jFGoa47jdoMr"/>
     <child id="tSFDYKKmbLpY"/>
+    <child id="Uv69mP9Vr4Kd"/>
     <child id="2zpHrh5Lpbhc"/>
+    <child id="4NvHDWtNjzBw"/>
     <child id="GQp35g5k6WDs"/>
+    <child id="nPd32ZEppqrV"/>
     <child id="WFXze8K2tSKc"/>
+    <child id="pb8dbuwMBFht"/>
   </children>
 </object>
